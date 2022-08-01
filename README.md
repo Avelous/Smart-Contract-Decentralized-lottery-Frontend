@@ -1,34 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# LOTTERY SMART CONTRACT Front End Repo
+
+Repo goes through the creation of a frontend for backend of the Lottery Smart Contract Project in the previous Repo: https://github.com/Avelous/Smart-Contract-Decentralized-Lottery
+It is written in NextJS - Javascript, HTML and CSS. 
+
+Repo has been deployed to the following website: https://shrill-frog-5007.on.fleek.co/
+
+![Screenshot_239](https://user-images.githubusercontent.com/86206128/182136124-aabcaac5-60eb-48c4-bcd8-1e8a6670fdf2.png)
+
 
 ## Getting Started
 
-First, run the development server:
+### Requirements
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+1. [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+2. [Nodejs](https://nodejs.org/en/)
+3. [Yarn](https://yarnpkg.com/getting-started/install) or npm
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Technologies Used
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+1. [NextJs](https://nextjs.org/)
+2. [Moralis](https://github.com/MoralisWeb3/react-moralis)
+3. [Web3Uikit](https://github.com/web3ui/web3uikit)
+4. [TailwindCSS](https://tailwindcss.com/)
+5. [IPFS](https://ipfs.io) & [Fleek](https://fleek.co/)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Breakdown
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+The Lottery Frontend Code base includes:
+1. ABI and Contract Address updated from backend
+2. Respective Components to interact with backend
+3. Minimalistic Styling
 
-## Learn More
+## Thank you!
+Feel free to follow me
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<a href="https://twitter.com/Av3lous"><img src="https://user-images.githubusercontent.com/86206128/182034124-9de8fc5b-0f4a-48b6-9a37-c2e2a0c9f8e8.svg" width="100" height="30"></a> <a href="https://www.linkedin.com/in/avelous"><img src="https://user-images.githubusercontent.com/86206128/182034127-826b3d79-4904-41e0-8897-e418973be00c.svg" width="100" height="30"></a>
